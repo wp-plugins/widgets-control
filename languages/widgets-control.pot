@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2015-03-08 15:51+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:52
+msgid   "Access denied."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:79
+msgid   "Automatic Cache Clearing"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:83
+msgid   "Automatically clear the cache when widgets are updated?"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:90
+msgid   "It is recommended while you set up your widgets or when you work on "
+        "changes. Note that you can also clear the cache manually even with "
+        "this option disabled and we recommend to disable it once you have "
+        "finished setting up your widgets."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:92
+msgid   "Note that you can also clear the cache manually even with this "
+        "option disabled and we recommend to disable it once you have "
+        "finished setting up your widgets."
+msgstr  ""
+
+#: lib/includes/constants.php:32
+msgid   "Put each item on a line by itself."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:96
+msgid   "Save"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:35
+msgid   "Settings"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:144
+msgid   "Show on all except these pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:142
+msgid   "Show on all pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:143
+msgid   "Show only on these pages"
+msgstr  ""
+
+#: lib/includes/constants.php:34
+msgid   "These tokens can be used:"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:88
+msgid   "This option is only provided as a convenience while you set up your "
+        "site. It is recommended while you set up your widgets or when you "
+        "work on changes. Note that you can also clear the cache manually "
+        "even with this option disabled and we recommend to disable it once "
+        "you have finished setting up your widgets."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:86
+msgid   "This works with W3 Total Cache, WP Super Cache and WP Engine."
+msgstr  ""
+
+#: lib/includes/constants.php:33
+msgid   "To include or exclude pages, use page ids, titles or slugs."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:134
+msgid   "Visibility"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:42
+#: lib/admin/class-widgets-plugin-admin-settings.php:43
+msgid   "Widgets Control"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:69
+msgid   "Widgets Control Settings"
+msgstr  ""
